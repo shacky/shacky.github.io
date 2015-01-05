@@ -5,8 +5,8 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Jan 2015 13:01:38 +0100</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2015 13:01:38 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2015 13:02:58 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2015 13:02:58 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -60,6 +60,17 @@
         <pubDate>Mon, 05 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Lew-kr-l-d-ungli-zarz-dzi</link>
         <guid isPermaLink="true">http://shacky.github.io/Lew-kr-l-d-ungli-zarz-dzi</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Co To Jest Lezy W Trawie</title>
+        <description>&lt;p&gt;Co to jest: leży w trawie i nie dycha?&lt;br /&gt;- Dwie dychy.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Jan 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Co-to-jest-lezy-w-trawie</link>
+        <guid isPermaLink="true">http://shacky.github.io/Co-to-jest-lezy-w-trawie</guid>
         
         
       </item>

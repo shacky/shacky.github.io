@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 Feb 2015 00:02:04 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2015 00:02:04 +0100</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2015 00:02:05 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2015 00:02:05 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Prawo Niesa Energia...</title>
+        <description>&lt;p&gt;Prawo Niesa:&lt;br /&gt;Energia zużywana przez biurokrację na obronę błędu jest wprost proporcjonalna do jego wielkości.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Prawo-Niesa-Energia</link>
+        <guid isPermaLink="true">http://shacky.github.io/Prawo-Niesa-Energia</guid>
+        
+        
+      </item>
     
       <item>
         <title>Corus Idz Do Sklepu</title>
@@ -106,17 +117,6 @@
         <pubDate>Wed, 28 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Dlaczego-w-Wachocku</link>
         <guid isPermaLink="true">http://shacky.github.io/Dlaczego-w-Wachocku</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>W komendzie zorganizowano...</title>
-        <description>&lt;p&gt;W komendzie zorganizowano test na inteligencję. Każdemu dano stalowy sześcian z wyciętymi po bokach otworami w kształcie koła, kwadratu i trójkąta. Zadanie polegało na wrzuceniu klocków o odpowiednim kształcie do środka.&lt;br /&gt;Po przeprowadzeniu testu sporządzono raport:&lt;br /&gt;“Wszyscy zdali test celująco - 5% wykazało się niepospolitą inteligencją ,a 95% - niepospolitą siłą “&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Jan 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/W-komendzie-zorganizowano</link>
-        <guid isPermaLink="true">http://shacky.github.io/W-komendzie-zorganizowano</guid>
         
         
       </item>

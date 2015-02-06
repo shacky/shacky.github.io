@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Feb 2015 00:02:05 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2015 00:02:05 +0100</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2015 00:02:09 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2015 00:02:09 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Siedzi zięć z teściową...</title>
+        <description>&lt;p&gt;Siedzi zięć z teściową na dachu i patrzą w niebo. W pewnym momencie dostrzegają spadającą gwiazdę. Zięć pomyślał życzenie. Teściowa nie zdążyła.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Siedzi-ziec-z-tesciowa</link>
+        <guid isPermaLink="true">http://shacky.github.io/Siedzi-ziec-z-tesciowa</guid>
+        
+        
+      </item>
     
       <item>
         <title>Prawo Niesa Energia...</title>
@@ -104,19 +115,6 @@
         <pubDate>Thu, 29 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Czy-ten-zegarek-chodzi</link>
         <guid isPermaLink="true">http://shacky.github.io/Czy-ten-zegarek-chodzi</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dlaczego W Wachocku</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Dlaczego w Wąchocku wysuszyli jezioro?&lt;br /&gt;- Bo córka sołtysa zgubiła kostium kąpielowy i teraz nie ma się w czym opalać.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 28 Jan 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Dlaczego-w-Wachocku</link>
-        <guid isPermaLink="true">http://shacky.github.io/Dlaczego-w-Wachocku</guid>
         
         
       </item>

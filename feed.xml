@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Feb 2015 00:02:08 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2015 00:02:08 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2015 00:02:07 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2015 00:02:07 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Na lekcji języka niemieckigo...</title>
+        <description>&lt;p&gt;Na lekcji języka niemieckigo profesor mówi do ucznia:&lt;br /&gt;-Powiedz wreszcie coś po niemiecku!&lt;br /&gt;Na co zdesperowany uczeń:&lt;br /&gt;-Postrafiam pielgszymuf s Polski. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Na-lekcji-jezyka-niemieckigo</link>
+        <guid isPermaLink="true">http://shacky.github.io/Na-lekcji-jezyka-niemieckigo</guid>
+        
+        
+      </item>
     
       <item>
         <title>Idealna żona powinna...</title>
@@ -104,19 +115,6 @@
         <pubDate>Sun, 15 Feb 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Wchodzi-pijany-facet</link>
         <guid isPermaLink="true">http://shacky.github.io/Wchodzi-pijany-facet</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Halo Czy To Firma</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Halo, czy to firma “Święta na telefon”?&lt;br /&gt; - Tak.&lt;br /&gt; - Co można u was zamówić?&lt;br /&gt; - Mikołaja, Śnieżynkę, elfy, renifery, prezenty…&lt;br /&gt; - To poproszę trzy Śnieżynki i dwa litry wódki.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 14 Feb 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Halo-czy-to-firma</link>
-        <guid isPermaLink="true">http://shacky.github.io/Halo-czy-to-firma</guid>
         
         
       </item>

@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Mar 2015 00:02:09 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 00:02:09 +0100</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2015 00:02:12 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 00:02:12 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Wchodzi blondynka do...</title>
+        <description>&lt;p&gt;Wchodzi blondynka do księgarni: &lt;br /&gt;- Poproszę książkę. &lt;br /&gt;- Jaką? - pyta sprzedawczyni. &lt;br /&gt;- Do czytania.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Wchodzi-blondynka-do</link>
+        <guid isPermaLink="true">http://shacky.github.io/Wchodzi-blondynka-do</guid>
+        
+        
+      </item>
     
       <item>
         <title>W gabinecie rentgenologicznym...</title>
@@ -104,19 +115,6 @@
         <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Miedzy-ludozercami</link>
         <guid isPermaLink="true">http://shacky.github.io/Miedzy-ludozercami</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jaka Jest Roznica Miedzy</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Jaka jest różnica między 25 a 50- latką?&lt;br /&gt;- 25- latka ma między kolanami faceta. 50- latka ma między kolanami cycki.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Jaka-jest-roznica-miedzy</link>
-        <guid isPermaLink="true">http://shacky.github.io/Jaka-jest-roznica-miedzy</guid>
         
         
       </item>

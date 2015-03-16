@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Mar 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2015 00:02:03 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2015 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>W zadymionej kuchni siedzi...</title>
+        <description>&lt;p&gt;W zadymionej kuchni siedzi młody człowiek z długimi włosami. W rękach trzyma gitarę i brzdąka jakąś melodię. Do pomieszczenia wchodzi pięciolatek i patrząc na tę scenę pyta:&lt;br /&gt;-Tato, a ty, jak dorośniesz, to kim chcesz zostać?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/W-zadymionej-kuchni-siedzi</link>
+        <guid isPermaLink="true">http://shacky.github.io/W-zadymionej-kuchni-siedzi</guid>
+        
+        
+      </item>
     
       <item>
         <title>Wchodzi babcia do autobusu...</title>
@@ -104,17 +115,6 @@
         <pubDate>Sun, 08 Mar 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/I-wyobraz-sobie</link>
         <guid isPermaLink="true">http://shacky.github.io/I-wyobraz-sobie</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wchodzi blondynka do...</title>
-        <description>&lt;p&gt;Wchodzi blondynka do księgarni: &lt;br /&gt;- Poproszę książkę. &lt;br /&gt;- Jaką? - pyta sprzedawczyni. &lt;br /&gt;- Do czytania.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Wchodzi-blondynka-do</link>
-        <guid isPermaLink="true">http://shacky.github.io/Wchodzi-blondynka-do</guid>
         
         
       </item>

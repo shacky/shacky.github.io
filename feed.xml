@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Mar 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 00:02:03 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Wchodzi student na egzamin,...</title>
+        <description>&lt;p&gt;Wchodzi student na egzamin, profesor pyta:&lt;br /&gt;- I co?&lt;br /&gt;- Koniak.&lt;br /&gt;- Koniak? To DOBRZE.&lt;br /&gt;- Nie, panie profesorze. To BARDZO DOBRY koniak. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Wchodzi-student-na-egzamin</link>
+        <guid isPermaLink="true">http://shacky.github.io/Wchodzi-student-na-egzamin</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jechał misiu i kr&amp;oacute;liczek...</title>
@@ -104,17 +115,6 @@
         <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Widzisz-tego-mlodego</link>
         <guid isPermaLink="true">http://shacky.github.io/Widzisz-tego-mlodego</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Starsza pani prosi młodego...</title>
-        <description>&lt;p&gt;Starsza pani prosi młodego chłopca:&lt;br /&gt;- Pomóż mi synku przejść na drugą stronę ulicy. W moim wieku to jest niebezpieczna eskapada.&lt;br /&gt;- Mieszka pani po tamtej stronie? - pyta chłopiec w trakcie przechodzenia.&lt;br /&gt;- Nie, ja tylko zaparkowałam tam mój motocykl. &lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Starsza-pani-prosi-mlodego</link>
-        <guid isPermaLink="true">http://shacky.github.io/Starsza-pani-prosi-mlodego</guid>
         
         
       </item>

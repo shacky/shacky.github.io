@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Jul 2015 00:02:07 +0200</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2015 00:02:07 +0200</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2015 00:02:05 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2015 00:02:05 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jeśli w autobusie komunikacji...</title>
+        <description>&lt;p&gt;Jeśli w autobusie komunikacji miejskiej uszczypniesz w tyłek kobietę, to:&lt;br /&gt;- z prawdopodobieństwem 9% odwróci się i da ci po pysku,&lt;br /&gt;- z prawdopodobieństwem 65% odwróci się i spyta: “och*jałeś?”,&lt;br /&gt;- z prawdopodobieństwem 25% nie zareaguje,&lt;br /&gt;- z prawdopodobieństwem 1 % zostanie twoją żoną.&lt;br /&gt;Krótko mówiąc - prawdopodobieństwo niewielkie, jednak lepiej nie ryzykować.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jul 2015 00:00:00 +0200</pubDate>
+        <link>http://shacky.github.io/Jesli-w-autobusie-komunikacji</link>
+        <guid isPermaLink="true">http://shacky.github.io/Jesli-w-autobusie-komunikacji</guid>
+        
+        
+      </item>
     
       <item>
         <title>Lod&amp;oacute;wka zrobiła imprezę....</title>
@@ -106,17 +117,6 @@
         <pubDate>Sun, 28 Jun 2015 00:00:00 +0200</pubDate>
         <link>http://shacky.github.io/Co-to-znaczy-gdy-ktos</link>
         <guid isPermaLink="true">http://shacky.github.io/Co-to-znaczy-gdy-ktos</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pani katechetka na lekcji...</title>
-        <description>&lt;p&gt;Pani katechetka na lekcji Religi pyta się dzieci: &lt;br /&gt;- Kim jest dla nas Bóg? &lt;br /&gt;- Pasterzem - odpowiada Marysia. &lt;br /&gt;- Dobrze Marysiu. &lt;br /&gt;- A kim My jesteśmy dla Boga? &lt;br /&gt;- Grupą baranów - odpowiada Jaś.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://shacky.github.io/Pani-katechetka-na-lekcji</link>
-        <guid isPermaLink="true">http://shacky.github.io/Pani-katechetka-na-lekcji</guid>
         
         
       </item>

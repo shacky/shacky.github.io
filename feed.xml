@@ -5,9 +5,22 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Sep 2015 00:02:03 +0200</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2015 00:02:03 +0200</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2015 00:02:03 +0200</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2015 00:02:03 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Nasza Nauczycielka</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Nasza nauczycielka mówi sama do siebie. Wasza też?&lt;br /&gt;- Nie, nasza myśli, że jej słuchamy!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 13 Sep 2015 00:00:00 +0200</pubDate>
+        <link>http://shacky.github.io/Nasza-nauczycielka</link>
+        <guid isPermaLink="true">http://shacky.github.io/Nasza-nauczycielka</guid>
+        
+        
+      </item>
     
       <item>
         <title>Idzie stara babcia obok...</title>
@@ -106,17 +119,6 @@
         <pubDate>Fri, 04 Sep 2015 00:00:00 +0200</pubDate>
         <link>http://shacky.github.io/Pani-pyta-na-lekcji-dzieci</link>
         <guid isPermaLink="true">http://shacky.github.io/Pani-pyta-na-lekcji-dzieci</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wchodzi do apteki karkonosz...</title>
-        <description>&lt;p&gt;Wchodzi do apteki karkonosz i donośnym głosem mówi:&lt;br /&gt;- Paczkę prezerwatyw potrzebuję!&lt;br /&gt;- Ciszej proszę! - odpowiada farmaceuta - przecież nie jesteśmy tutaj sami. Są przecież inni klienci.&lt;br /&gt;Łysol płaci i wychodzi.&lt;br /&gt;Po dwóch tygodniach ten sam karkonosz wchodzi do tej samej apteki i cichutkim głosem mówi:&lt;br /&gt;- Paczkę czopków proszę.&lt;br /&gt;- Nie słyszę - proszę powtórzyć - odpowiada aptekarz.&lt;br /&gt;- Paczkę czopków - tak samo cicho powtarza gostek.&lt;br /&gt;- Proszę mówić głośniej ! Tutaj słabo słychać.&lt;br /&gt;- Jakiś dziwny układ tutaj widzę działa! - normalnym głosem, zdenerwowany łysol mówi - Jak ja mam problem z d*pą to o tym mają wszyscy wiedzieć, a jak sobie coś znajdę do ruchania to jest tabu - tak?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://shacky.github.io/Wchodzi-do-apteki-karkonosz</link>
-        <guid isPermaLink="true">http://shacky.github.io/Wchodzi-do-apteki-karkonosz</guid>
         
         
       </item>

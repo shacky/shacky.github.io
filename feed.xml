@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Sep 2015 00:02:03 +0200</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2015 00:02:03 +0200</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2015 00:02:03 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2015 00:02:03 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Kowalski jak zwykle przyszedł...</title>
+        <description>&lt;p&gt;Kowalski jak zwykle przyszedł spóźniony do pracy i zbiera standardowy ochrzan od szefa: &lt;br /&gt;- Był pan w wojsku, Kowalski? &lt;br /&gt;- Byłem. &lt;br /&gt;- I co tam panu mówił sierżant jak się pan spóźniał?! &lt;br /&gt;- Nic szczególnego… “Dzień dobry, panie majorze”…&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 00:00:00 +0200</pubDate>
+        <link>http://shacky.github.io/Kowalski-jak-zwykle-przyszedl</link>
+        <guid isPermaLink="true">http://shacky.github.io/Kowalski-jak-zwykle-przyszedl</guid>
+        
+        
+      </item>
     
       <item>
         <title>Rodzina much - mama z...</title>
@@ -106,19 +117,6 @@
         <pubDate>Mon, 14 Sep 2015 00:00:00 +0200</pubDate>
         <link>http://shacky.github.io</link>
         <guid isPermaLink="true">http://shacky.github.io</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nasza Nauczycielka</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Nasza nauczycielka mówi sama do siebie. Wasza też?&lt;br /&gt;- Nie, nasza myśli, że jej słuchamy!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 13 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://shacky.github.io/Nasza-nauczycielka</link>
-        <guid isPermaLink="true">http://shacky.github.io/Nasza-nauczycielka</guid>
         
         
       </item>

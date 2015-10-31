@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 31 Oct 2015 00:02:04 +0100</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 00:02:04 +0100</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 00:02:06 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 00:02:06 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Przychodzi bezrobotny...</title>
+        <description>&lt;p&gt;Przychodzi bezrobotny robotnik na budowę szukać pracy. Idzie do majstra, a ten pyta:&lt;br /&gt;- Co może pan robić?&lt;br /&gt;- Mogę kopać - odpowiada bezrobotny.&lt;br /&gt;- A co jeszcze może pan robić?&lt;br /&gt;- Mogę nie kopać… &lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Przychodzi-bezrobotny</link>
+        <guid isPermaLink="true">http://shacky.github.io/Przychodzi-bezrobotny</guid>
+        
+        
+      </item>
     
       <item>
         <title>Anestezjolog m&amp;oacute;wi do...</title>
@@ -108,17 +119,6 @@
         <pubDate>Fri, 23 Oct 2015 00:00:00 +0200</pubDate>
         <link>http://shacky.github.io/Mamo-a-pani-na-angielskim</link>
         <guid isPermaLink="true">http://shacky.github.io/Mamo-a-pani-na-angielskim</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Policjant zatrzymuje...</title>
-        <description>&lt;p&gt;Policjant zatrzymuje faceta:&lt;br /&gt;- Wysiadać, musimy zrobić próbę alkoholu!&lt;br /&gt;- Nie ma sprawy. Do której knajpy idziemy?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://shacky.github.io/Policjant-zatrzymuje</link>
-        <guid isPermaLink="true">http://shacky.github.io/Policjant-zatrzymuje</guid>
         
         
       </item>

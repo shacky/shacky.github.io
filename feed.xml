@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Nov 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2015 00:02:03 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2015 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Cena świętości Była...</title>
+        <description>&lt;p&gt;Cena świętości&lt;br /&gt;&lt;br /&gt;Była piękna, dobra, święta&lt;br /&gt;Do dziś płacę alimenta.&lt;br /&gt;(Jan Sztaudynger) &lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Cena-swietosci-Byla</link>
+        <guid isPermaLink="true">http://shacky.github.io/Cena-swietosci-Byla</guid>
+        
+        
+      </item>
     
       <item>
         <title>Panie doktorze, każdej...</title>
@@ -104,17 +115,6 @@
         <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Przychodzi-bezrobotny</link>
         <guid isPermaLink="true">http://shacky.github.io/Przychodzi-bezrobotny</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Anestezjolog m&amp;oacute;wi do...</title>
-        <description>&lt;p&gt;Anestezjolog mówi do pacjenta przed operacja:&lt;br /&gt;- Dziś usypiamy za darmo… ale budzimy za pieniądze….&lt;/p&gt;
-</description>
-        <pubDate>Sat, 31 Oct 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Anestezjolog-mowi-do</link>
-        <guid isPermaLink="true">http://shacky.github.io/Anestezjolog-mowi-do</guid>
         
         
       </item>

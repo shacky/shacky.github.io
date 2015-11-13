@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 13 Nov 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2015 00:02:04 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2015 00:02:04 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Za tydzień Wielkanoc....</title>
+        <description>&lt;p&gt;Za tydzień Wielkanoc. Bardzo proszę wszystkie panie składać jajka w przedsionku. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Za-tydzien-Wielkanoc</link>
+        <guid isPermaLink="true">http://shacky.github.io/Za-tydzien-Wielkanoc</guid>
+        
+        
+      </item>
     
       <item>
         <title>Big Brother w innych...</title>
@@ -104,17 +115,6 @@
         <pubDate>Thu, 05 Nov 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Maz-pyta-sie-zony</link>
         <guid isPermaLink="true">http://shacky.github.io/Maz-pyta-sie-zony</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Czas zdawania rocznych...</title>
-        <description>&lt;p&gt;&lt;br /&gt;Czas zdawania rocznych sprawozdań finansowych w urzędzie skarbowym. Z pokoju urzędnika wychodzi księgowa. Czekająca na korytarzu jej przyjaciółka, księgowa w innej firmie, pyta:&lt;br /&gt;- Zdałaś?&lt;br /&gt;- Zdałam.&lt;br /&gt;- To daj spisać!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Czas-zdawania-rocznych</link>
-        <guid isPermaLink="true">http://shacky.github.io/Czas-zdawania-rocznych</guid>
         
         
       </item>

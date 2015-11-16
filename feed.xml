@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Nov 2015 00:02:07 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2015 00:02:07 +0100</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2015 00:02:13 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2015 00:02:13 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Po czym można poznać,...</title>
+        <description>&lt;p&gt;Po czym można poznać, że Mario chciał zostać adwokatem?&lt;br /&gt;- Poszedł na prawo.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Po-czym-mozna-poznac</link>
+        <guid isPermaLink="true">http://shacky.github.io/Po-czym-mozna-poznac</guid>
+        
+        
+      </item>
     
       <item>
         <title>Przychodzi facet do sklepu...</title>
@@ -104,17 +115,6 @@
         <pubDate>Sun, 08 Nov 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Maz-zastaje-zone-z-kochankiem</link>
         <guid isPermaLink="true">http://shacky.github.io/Maz-zastaje-zone-z-kochankiem</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ojciec z c&amp;oacute;rką zwiedzają...</title>
-        <description>&lt;p&gt;Ojciec z córką zwiedzają muzeum. Przed posągiem Wenus z Milo ojciec zauważa:&lt;br /&gt;- No i widzisz, córeczko, do czego doprowadza obgryzanie paznokci?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Ojciec-z-corka-zwiedzaja</link>
-        <guid isPermaLink="true">http://shacky.github.io/Ojciec-z-corka-zwiedzaja</guid>
         
         
       </item>

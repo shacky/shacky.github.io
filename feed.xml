@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Nov 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2015 00:02:03 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jaka jest najwyższa forma...</title>
+        <description>&lt;p&gt;Jaka jest najwyższa forma życia zwierzęcego?&lt;br /&gt;- Żyrafa.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Jaka-jest-najwyzsza-forma</link>
+        <guid isPermaLink="true">http://shacky.github.io/Jaka-jest-najwyzsza-forma</guid>
+        
+        
+      </item>
     
       <item>
         <title>Podczas lekcji Jasiu...</title>
@@ -104,17 +115,6 @@
         <pubDate>Mon, 16 Nov 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Przychodzi-facet-do-sklepu</link>
         <guid isPermaLink="true">http://shacky.github.io/Przychodzi-facet-do-sklepu</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Po zaliczeniu wielu...</title>
-        <description>&lt;p&gt;&lt;br /&gt;Po zaliczeniu wielu barów w miasteczku dwaj przyjaciele bez grosza… Postanawiają udać się do mieszkania jednego z nich celem wypicia “po piwku”.&lt;br /&gt;Przed drzwiami mieszkania jeden mówi:&lt;br /&gt;- Musimy zachowywać się cicho… jest już po 22-giej i żona z pewnością już śpi! Wchodzą do przedpokoju… jeden poszedł do kuchni, a drugi zagląda do sypialni.&lt;br /&gt;Po chwili wpada do kuchni i szepcze…&lt;br /&gt;- Ktoś jest w łóżku z twoją żoną!&lt;br /&gt;- Ciszej!… Mamy tylko po piwie dla siebie!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Po-zaliczeniu-wielu</link>
-        <guid isPermaLink="true">http://shacky.github.io/Po-zaliczeniu-wielu</guid>
         
         
       </item>

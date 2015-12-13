@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 00:02:04 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 00:02:04 +0100</lastBuildDate>
+    <pubDate>Mon, 14 Dec 2015 00:02:04 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 00:02:04 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jak witają się ludzie...</title>
+        <description>&lt;p&gt;Jak witają się ludzie na pustyni?&lt;br /&gt;- Cień dobry.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Jak-witaja-sie-ludzie</link>
+        <guid isPermaLink="true">http://shacky.github.io/Jak-witaja-sie-ludzie</guid>
+        
+        
+      </item>
     
       <item>
         <title>Lew ustalił sobie listę...</title>
@@ -104,17 +115,6 @@
         <pubDate>Sat, 05 Dec 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Tatusiu-gdzie-ty</link>
         <guid isPermaLink="true">http://shacky.github.io/Tatusiu-gdzie-ty</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pani do Jasia - Powiedz...</title>
-        <description>&lt;p&gt;Pani do Jasia: &lt;br /&gt;- Powiedz wierszyk. &lt;br /&gt;Jasio: &lt;br /&gt;- Morze, polskie morze, stoi w wodzie dziewczę hoże, a w tym morzu świzdy, gwizdy, woda sięga jej do kolan… &lt;br /&gt;- Jasiu, gdzie tu rym? &lt;br /&gt;- Jak wody przybędzie, to i rym będzie. &lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Pani-do-Jasia-Powiedz</link>
-        <guid isPermaLink="true">http://shacky.github.io/Pani-do-Jasia-Powiedz</guid>
         
         
       </item>

@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Dec 2015 00:02:05 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2015 00:02:05 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Dec 2015 00:02:11 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Dec 2015 00:02:11 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Spotyka się wieczorem...</title>
+        <description>&lt;p&gt;Spotyka się wieczorem dwóch księży, z których jeden narzeka:&lt;br /&gt;- Dziś przy konfesjonale był taki galimatias, że naznaczając pokuty zapomniałem o udzielaniu rozgrzeszeń.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Spotyka-sie-wieczorem</link>
+        <guid isPermaLink="true">http://shacky.github.io/Spotyka-sie-wieczorem</guid>
+        
+        
+      </item>
     
       <item>
         <title>Przychodzi facet do pracy...</title>
@@ -106,17 +117,6 @@
         <pubDate>Wed, 09 Dec 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Z-KIM-NA-IMPREZE-Siedze</link>
         <guid isPermaLink="true">http://shacky.github.io/Z-KIM-NA-IMPREZE-Siedze</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rozmawia Polak z Amerykaninem -...</title>
-        <description>&lt;p&gt;Rozmawia Polak z Amerykaninem:&lt;br /&gt;- U nas to jest normalnie demokracja, mogę stanąć sobie na środku Central Park i krzyknąć “amerykański prezydent jest idiotą!!!” - mówi Amerykanin.&lt;br /&gt;- Wiesz, to zupełnie jak u nas, też możesz stanąć na środku dworca kolejowego i krzyknąć “amerykański prezydent jest idiotą” - odparł Polak.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Rozmawia-Polak-z-Amerykaninem</link>
-        <guid isPermaLink="true">http://shacky.github.io/Rozmawia-Polak-z-Amerykaninem</guid>
         
         
       </item>

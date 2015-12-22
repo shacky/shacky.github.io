@@ -5,9 +5,22 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Dec 2015 00:02:03 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2015 00:02:03 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 00:02:07 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 00:02:07 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Tato Dlaczego Pies</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Tato dlaczego pies sąsiadów już nie szczeka?&lt;br /&gt;- Nie pyskuj smarkaczu, tylko jedz kotlety!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Tato-dlaczego-pies</link>
+        <guid isPermaLink="true">http://shacky.github.io/Tato-dlaczego-pies</guid>
+        
+        
+      </item>
     
       <item>
         <title>Siedzi Kubuś Puchatek...</title>
@@ -108,17 +121,6 @@
         <pubDate>Mon, 14 Dec 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Jak-witaja-sie-ludzie</link>
         <guid isPermaLink="true">http://shacky.github.io/Jak-witaja-sie-ludzie</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lew ustalił sobie listę...</title>
-        <description>&lt;p&gt;&lt;br /&gt;Lew ustalił sobie listę zwierzątek jakie będzie zjadał na obiad. Idzie pierwszego dnia i widzi sarnę.&lt;br /&gt;- No niestety sarno jesteś na mojej liście, więc muszę cię zjeść.&lt;br /&gt;- Proszę, zlituj się nade mną, mam rodzinę, daj mi chociaż jeden dzień abym mogła się z nią pożegnać.&lt;br /&gt;Lew się zgadza.&lt;br /&gt;Następnego dnia spotyka dzika i mówi:&lt;br /&gt;- Niestety mam cię na swojej liście i muszę cię zjeść.&lt;br /&gt;- Proszę zlituj się nade mną, mam liczną rodzinę, daj mi chociaż jeden dzień abym mógł się z nią pożegnać.&lt;br /&gt;Lew znowu idzie na rękę i puszcza dzika na jeden dzień.&lt;br /&gt;Trzeciego dnia spotyka zajączka i mówi:&lt;br /&gt;- Zajączku niestety mam cię na swojej liście i muszę cie zjeść.&lt;br /&gt;- Lewku kochany nie mógłbyś mnie skreślić z tej swojej listy?&lt;br /&gt;Lew myśli, myśli i w końcu mówi:&lt;br /&gt;- Nie ma sprawy! &lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Lew-ustalil-sobie-liste</link>
-        <guid isPermaLink="true">http://shacky.github.io/Lew-ustalil-sobie-liste</guid>
         
         
       </item>

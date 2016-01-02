@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Jan 2016 00:02:03 +0100</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2016 00:02:03 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2016 00:02:03 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Lekarz do lekarza -...</title>
+        <description>&lt;p&gt;Lekarz do lekarza: &lt;br /&gt;- Mam dziwny przypadek. Pacjent powinien już dawno zejść a on zdrowieje. &lt;br /&gt;- Tak,… czasem medycyna jest bezsilna.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Lekarz-do-lekarza</link>
+        <guid isPermaLink="true">http://shacky.github.io/Lekarz-do-lekarza</guid>
+        
+        
+      </item>
     
       <item>
         <title>Dwaj mężczyźni siedzą...</title>
@@ -104,19 +115,6 @@
         <pubDate>Thu, 24 Dec 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/To-ja-tez-cos-dodam-Siedzi</link>
         <guid isPermaLink="true">http://shacky.github.io/To-ja-tez-cos-dodam-Siedzi</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tato Dlaczego Pies</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Tato dlaczego pies sąsiadów już nie szczeka?&lt;br /&gt;- Nie pyskuj smarkaczu, tylko jedz kotlety!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 23 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Tato-dlaczego-pies</link>
-        <guid isPermaLink="true">http://shacky.github.io/Tato-dlaczego-pies</guid>
         
         
       </item>

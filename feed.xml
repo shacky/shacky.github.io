@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 Jan 2016 00:02:04 +0100</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2016 00:02:04 +0100</lastBuildDate>
+    <pubDate>Sat, 09 Jan 2016 00:02:08 +0100</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 00:02:08 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Laska jedzie na motorze...</title>
+        <description>&lt;p&gt;Laska jedzie na motorze przez miasto i nagle nadchodzi Policjant i zasłania jej drogę. &lt;br /&gt;Policjant mówi: &lt;br /&gt;- Czemu założyłaś czapkę zamiast kasku? &lt;br /&gt;- Bo zrobiłam sobie test - zrzuciłam z 20 piętra kask i się rozwalił, a potem czapkę ale jej nic się nie stało.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Laska-jedzie-na-motorze</link>
+        <guid isPermaLink="true">http://shacky.github.io/Laska-jedzie-na-motorze</guid>
+        
+        
+      </item>
     
       <item>
         <title>Do stojącej pod latarnią...</title>
@@ -104,17 +115,6 @@
         <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Wraca-maz-do-domu-po</link>
         <guid isPermaLink="true">http://shacky.github.io/Wraca-maz-do-domu-po</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ruski naukowiec przeprowadza...</title>
-        <description>&lt;p&gt;Ruski naukowiec przeprowadza testy na pająku.&lt;br /&gt;Odciął mu jedno odnóże i mówi:&lt;br /&gt;- Pająk, idi!&lt;br /&gt;Pająk idzie. Rusek zapisuje:&lt;br /&gt;“Po odcięciu pierwszego odnóża pająk idzie”&lt;br /&gt;Potem odcina drugie odnóże:&lt;br /&gt;- Pająk, idi!&lt;br /&gt;Pająk idzie. Sytuacja powtarza się kilkakrotnie. W końcu pająkowi zostały dwie nogi. Rusek odciął przedostatnią:&lt;br /&gt;- Pająk, idi!&lt;br /&gt;Pająk, jedną nogą, posuwał się powolnie, ale idzie. Rusek zapisuje:&lt;br /&gt;“Po odcięciu przedostatniego odnóża pająk idzie.”&lt;br /&gt;Po chwili odciął ostatnie odnóże, i mówi:&lt;br /&gt;- Pająk, idi!&lt;br /&gt;Pająk nie idzie; nie ma jak. Rusek zapisuje w dzienniku:&lt;br /&gt;“Po odcięciu ostatniego odnóża pająk ogłuchł.”&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Ruski-naukowiec-przeprowadza</link>
-        <guid isPermaLink="true">http://shacky.github.io/Ruski-naukowiec-przeprowadza</guid>
         
         
       </item>

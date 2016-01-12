@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Jan 2016 00:02:05 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 00:02:05 +0100</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 00:02:04 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 00:02:04 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Mądry Mądry nawet...</title>
+        <description>&lt;p&gt;Mądry&lt;br /&gt;&lt;br /&gt;Mądry nawet tej nie wierzy,&lt;br /&gt;Z którą aktualnie leży.&lt;br /&gt;(Jan Sztaudynger) &lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Madry-Madry-nawet</link>
+        <guid isPermaLink="true">http://shacky.github.io/Madry-Madry-nawet</guid>
+        
+        
+      </item>
     
       <item>
         <title>Prosze Powiedziec Doktorze</title>
@@ -106,17 +117,6 @@
         <pubDate>Mon, 04 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Maz-z-zona-jada-przez</link>
         <guid isPermaLink="true">http://shacky.github.io/Maz-z-zona-jada-przez</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lekarz do lekarza -...</title>
-        <description>&lt;p&gt;Lekarz do lekarza: &lt;br /&gt;- Mam dziwny przypadek. Pacjent powinien już dawno zejść a on zdrowieje. &lt;br /&gt;- Tak,… czasem medycyna jest bezsilna.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Lekarz-do-lekarza</link>
-        <guid isPermaLink="true">http://shacky.github.io/Lekarz-do-lekarza</guid>
         
         
       </item>

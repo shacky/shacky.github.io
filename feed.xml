@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Feb 2016 00:02:05 +0100</pubDate>
-    <lastBuildDate>Thu, 04 Feb 2016 00:02:05 +0100</lastBuildDate>
+    <pubDate>Fri, 05 Feb 2016 00:02:10 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2016 00:02:10 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Teściowa do zięcia -...</title>
+        <description>&lt;p&gt;Teściowa do zięcia:&lt;br /&gt;- Nie zasłaniaj się gazetą! Nie udawaj, że czytasz. Dobrze wiem, że mnie słyszysz, bo widzę jak ci się kolana trzęsą…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Tesciowa-do-ziecia</link>
+        <guid isPermaLink="true">http://shacky.github.io/Tesciowa-do-ziecia</guid>
+        
+        
+      </item>
     
       <item>
         <title>Ktoś puka do drzwi,...</title>
@@ -104,17 +115,6 @@
         <pubDate>Wed, 27 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Dlaczego-w-Etiopii-nie</link>
         <guid isPermaLink="true">http://shacky.github.io/Dlaczego-w-Etiopii-nie</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Za siedmioma g&amp;oacute;rami,...</title>
-        <description>&lt;p&gt;Za siedmioma górami, za siedmioma rzekami i siedmioma lasami, mieszkała królewna i mówiła: Ja, to cholera mam wszędzie tak daleko! &lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Za-siedmioma-gorami</link>
-        <guid isPermaLink="true">http://shacky.github.io/Za-siedmioma-gorami</guid>
         
         
       </item>

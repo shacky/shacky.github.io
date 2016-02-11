@@ -5,9 +5,22 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 00:02:03 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 00:02:03 +0100</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2016 00:02:03 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Kochanie Czy Moj Tylek</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Kochanie czy mój tyłek wygląda w tym grubo?&lt;br /&gt;- Chcesz znać prawdę?&lt;br /&gt;- Tak.&lt;br /&gt;- Sypiam z twoją siostrą.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Kochanie-czy-moj-tylek</link>
+        <guid isPermaLink="true">http://shacky.github.io/Kochanie-czy-moj-tylek</guid>
+        
+        
+      </item>
     
       <item>
         <title>Pewien facet podejrzewając...</title>
@@ -104,17 +117,6 @@
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Dlaczego-blondynka-polozyla</link>
         <guid isPermaLink="true">http://shacky.github.io/Dlaczego-blondynka-polozyla</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Na planie filmu -...</title>
-        <description>&lt;p&gt;Na planie filmu: &lt;br /&gt;- Ty, ty i ty - mówi reżyser. &lt;br /&gt;- I jeszcze ja i jeszcze ja - woła Jasiu. &lt;br /&gt;- Dobra. I jeszcze Ty, wynocha z planu!&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Na-planie-filmu</link>
-        <guid isPermaLink="true">http://shacky.github.io/Na-planie-filmu</guid>
         
         
       </item>

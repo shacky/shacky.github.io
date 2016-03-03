@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 00:02:03 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 00:02:03 +0100</lastBuildDate>
+    <pubDate>Fri, 04 Mar 2016 00:02:03 +0100</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Dlaczego blondynka wskakuje...</title>
+        <description>&lt;p&gt;Dlaczego blondynka wskakuje w pajęczynę z deską pod pachą? Po chce serfować w sieci &lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Dlaczego-blondynka-wskakuje</link>
+        <guid isPermaLink="true">http://shacky.github.io/Dlaczego-blondynka-wskakuje</guid>
+        
+        
+      </item>
     
       <item>
         <title>idzie sobie blondynka...</title>
@@ -104,17 +115,6 @@
         <pubDate>Wed, 24 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Do-lezacego-na-lawce</link>
         <guid isPermaLink="true">http://shacky.github.io/Do-lezacego-na-lawce</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Co to jest Lata po...</title>
-        <description>&lt;p&gt;Co to jest:&lt;br /&gt;Lata po suficie i robi: yzb! yzb! yzb!?&lt;br /&gt;- Mucha na wstecznym…&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Co-to-jest-Lata-po</link>
-        <guid isPermaLink="true">http://shacky.github.io/Co-to-jest-Lata-po</guid>
         
         
       </item>

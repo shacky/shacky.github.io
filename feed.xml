@@ -5,9 +5,20 @@
     <description></description>
     <link>http://shacky.github.io/</link>
     <atom:link href="http://shacky.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 00:02:03 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 00:02:03 +0100</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 00:02:03 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 00:02:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Adam i Ewa żyli sobie...</title>
+        <description>&lt;p&gt;Adam i Ewa żyli sobie w raju szczęśliwie. A dlaczego?&lt;br /&gt;- Bo nie mieli teściowych.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://shacky.github.io/Adam-i-Ewa-zyli-sobie</link>
+        <guid isPermaLink="true">http://shacky.github.io/Adam-i-Ewa-zyli-sobie</guid>
+        
+        
+      </item>
     
       <item>
         <title>Był sobie chłopak, kt&amp;oacute;rego...</title>
@@ -104,17 +115,6 @@
         <pubDate>Sat, 05 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://shacky.github.io/Jedzie-Ahmed-taksowka-Taksowkarz</link>
         <guid isPermaLink="true">http://shacky.github.io/Jedzie-Ahmed-taksowka-Taksowkarz</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dlaczego blondynka wskakuje...</title>
-        <description>&lt;p&gt;Dlaczego blondynka wskakuje w pajęczynę z deską pod pachą? Po chce serfować w sieci &lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://shacky.github.io/Dlaczego-blondynka-wskakuje</link>
-        <guid isPermaLink="true">http://shacky.github.io/Dlaczego-blondynka-wskakuje</guid>
         
         
       </item>
